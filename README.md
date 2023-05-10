@@ -1,5 +1,5 @@
-# Laporan Praktikum PBO
-
-|      NAMA      |       NIM      | RUANGAN |
-|----------------|----------------|---------|
-| Adri Audifirst | 24060121140152 |  Lab A  |
+<div align="center">
+  <h1>Laporan Praktikum PBO A</h1>
+  <p>⚡ Fully coded with Java and Java only</p>
+  <p>Made by Adri Audifirst</p>
+</div>
