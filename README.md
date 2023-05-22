@@ -1,3 +1,10 @@
+<style>
+  .resized-image {
+    width: 200px;
+    height: auto;
+  }
+</style>
+
 <div align="center">
   <h1>Laporan Praktikum PBO A</h1>
   <h2>Adri Audifirst - 24060121140152</h2>
