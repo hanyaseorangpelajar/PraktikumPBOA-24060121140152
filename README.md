@@ -1,7 +1,15 @@
-<div align="center">
+<div align="left">
   <h1>Laporan Praktikum PBO A</h1>
-  <h2>Adri Audifirst - 24060121140152</h2>
-  <p>⚡ Coded with Java and Java only</p>
-  <img src="https://github.com/hanyaseorangpelajar/assets/blob/56b8b2faeec0fb3bdc98f8ed13c88b7a3472d7a5/icon.jpg" width="10%" height="auto">
-  <p>Made With &#x2764; by Adri Audifirst</p>
 </div>
+
+<p>Adri Audifirst - 24060121140152</p>
+
+## Disclaimer
+
+> This project is **NOT** licensed and all rights are reserved. <br/>
+> You are not allowed to use this project for commercial purposes. <br/>
+
+## Contributors
+<a href="https://github.com/hanyaseorangpelajar/PraktikumPBOA-24060121140152/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hanyaseorangpelajar/PraktikumPBOA-24060121140152" />
+</a>
